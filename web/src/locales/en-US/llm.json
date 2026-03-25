@@ -88,7 +88,7 @@
     "openai": "OpenAI Platform",
     "qwen": "Aliyun Bailian (Qwen / Recommended)",
     "deepseek": "DeepSeek Platform (Fast & Cheap)",
-    "minimax": "MiniMax Platform (1M Context, Fast)",
+    "minimax": "MiniMax Platform (204K Context, Fast)",
     "openrouter": "OpenRouter (All-in-one, Recommended)",
     "siliconflow": "SiliconFlow (Domestic Aggregation)",
     "gemini": "Google AI Studio (Gemini)"
